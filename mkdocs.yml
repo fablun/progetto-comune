@@ -1,0 +1,72 @@
+site_name: Progetto Comune
+site_description: Le migliori istituzioni che l'umanità ha costruito, messe insieme per una società più giusta, ricca e felice.
+site_url: https://fablun.github.io/progetto-comune/
+repo_url: https://github.com/fablun/progetto-comune
+repo_name: progetto-comune
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Tema scuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Tema chiaro
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: it
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Il metodo: metodo.md
+  - Indice ragionato: indice.md
+  - "Area: Risorse e conflitti":
+      - Sintesi e principi: aree/risorse-e-conflitti/index.md
+      - Beni comuni autogestiti: aree/risorse-e-conflitti/beni-comuni-ostrom.md
+      - Mettere in comune le risorse della guerra: aree/risorse-e-conflitti/comunita-carbone-acciaio.md
+      - Il fondo sovrano norvegese: aree/risorse-e-conflitti/fondo-sovrano-norvegese.md
+      - Il dividendo dell'Alaska: aree/risorse-e-conflitti/dividendo-alaska.md
+      - I diamanti del Botswana: aree/risorse-e-conflitti/diamanti-botswana.md
+      - La trasparenza estrattiva (EITI): aree/risorse-e-conflitti/trasparenza-eiti.md
+      - Il trattato delle acque dell'Indo: aree/risorse-e-conflitti/trattato-acque-indo.md
+      - Le opere comuni del fiume Senegal: aree/risorse-e-conflitti/fiume-senegal-omvs.md
+      - La terra a chi la lavora: aree/risorse-e-conflitti/riforma-agraria-asia.md
+      - Le quote di pesca: aree/risorse-e-conflitti/quote-pesca.md
+  - Partecipa:
+      - Contribuire: contribuire.md
+      - Modello di scheda: modello-scheda.md
+      - Registro delle modifiche: registro.md
+
+extra:
+  generator: false
+
+copyright: Testi pubblicati con licenza CC BY-SA 4.0
