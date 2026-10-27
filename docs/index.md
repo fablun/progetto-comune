@@ -30,7 +30,9 @@ Da queste prove ricava dei principi. Poi mostra come combinarli in un sistema ad
 
 1. **Il [metodo](metodo.md)**: come scegliamo, valutiamo e mettiamo alla prova ogni soluzione.
 2. **L'[indice ragionato](indice.md)**: la mappa dell'intero lavoro.
-3. **La biblioteca dei meccanismi**, divisa per aree. La prima pubblicata è **[Risorse e conflitti](aree/risorse-e-conflitti/index.md)**: come si gestisce ciò che è scarso senza combattersi.
+3. **La biblioteca dei meccanismi**, divisa per aree. Già pubblicate:
+    - **[Risorse e conflitti](aree/risorse-e-conflitti/index.md)**: come si gestisce ciò che è scarso senza combattersi.
+    - **[Decisione politica](aree/decisione-politica/index.md)**: come si prendono decisioni legittime, informate e condivise.
 
 ## Partecipa
 
@@ -38,4 +40,4 @@ Questo documento migliora solo se qualcuno lo corregge. Se conosci una soluzione
 
 ---
 
-*Versione 0.1 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*
+*Versione 0.2 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*

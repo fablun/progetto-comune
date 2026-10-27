@@ -14,7 +14,7 @@ La mappa completa del lavoro. Le parti segnate **in corso** hanno già contenuti
 
 ## Parte II — I principi
 
-**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi otto sono già emersi dall'area Risorse e conflitti. → [Sintesi](aree/risorse-e-conflitti/index.md#i-principi-che-emergono)
+**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono)
 
 ## Parte III — La biblioteca dei meccanismi
 
@@ -22,7 +22,7 @@ Ogni area raccoglie schede istituzionali con lo stesso formato. → [Modello di 
 
 **5. Risorse e conflitti** — *in corso*. Come si gestisce ciò che è scarso senza combattersi: beni comuni, ricchezze naturali, acqua condivisa, terra. → [Apri l'area](aree/risorse-e-conflitti/index.md)
 
-**6. Decisione politica.** Come si prendono decisioni legittime e informate: democrazia diretta, assemblee di cittadini sorteggiati, deliberazione digitale, bilancio partecipativo, sistemi elettorali.
+**6. Decisione politica** — *in corso*. Come si prendono decisioni legittime e informate: assemblee di cittadini sorteggiati, democrazia diretta, deliberazione digitale, bilancio partecipativo, decentramento, sistemi elettorali, finanziamento della politica. → [Apri l'area](aree/decisione-politica/index.md)
 
 **7. Stato e amministrazione.** Come si costruisce uno Stato efficiente e non corrotto: amministrazione digitale, burocrazia meritocratica, agenzie anticorruzione, decentramento.
 
