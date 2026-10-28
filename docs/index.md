@@ -33,6 +33,7 @@ Da queste prove ricava dei principi. Poi mostra come combinarli in un sistema ad
 3. **La biblioteca dei meccanismi**, divisa per aree. Già pubblicate:
     - **[Risorse e conflitti](aree/risorse-e-conflitti/index.md)**: come si gestisce ciò che è scarso senza combattersi.
     - **[Decisione politica](aree/decisione-politica/index.md)**: come si prendono decisioni legittime, informate e condivise.
+    - **[Economia e lavoro](aree/economia-e-lavoro/index.md)**: come si genera una prosperità diffusa.
 
 ## Partecipa
 
@@ -40,4 +41,4 @@ Questo documento migliora solo se qualcuno lo corregge. Se conosci una soluzione
 
 ---
 
-*Versione 0.2 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*
+*Versione 0.3 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*

@@ -14,7 +14,7 @@ La mappa completa del lavoro. Le parti segnate **in corso** hanno già contenuti
 
 ## Parte II — I principi
 
-**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono)
+**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono) · [Economia e lavoro](aree/economia-e-lavoro/index.md#i-principi-che-emergono)
 
 ## Parte III — La biblioteca dei meccanismi
 
@@ -26,7 +26,7 @@ Ogni area raccoglie schede istituzionali con lo stesso formato. → [Modello di 
 
 **7. Stato e amministrazione.** Come si costruisce uno Stato efficiente e non corrotto: amministrazione digitale, burocrazia meritocratica, agenzie anticorruzione, decentramento.
 
-**8. Economia e lavoro.** Come si genera prosperità diffusa: flessibilità con sicurezza, cogestione, cooperative, formazione professionale, concorrenza, politica industriale.
+**8. Economia e lavoro** — *in corso*. Come si genera prosperità diffusa: flessibilità con sicurezza, cogestione, cooperative, formazione professionale, salario minimo, politica industriale, uscita dalla povertà e dal sommerso. → [Apri l'area](aree/economia-e-lavoro/index.md)
 
 **9. Welfare, salute e casa.** Come si garantisce una vita dignitosa: sanità primaria universale, edilizia pubblica, trasferimenti monetari, sperimentazioni di reddito di base, pensioni.
 
