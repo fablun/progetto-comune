@@ -34,6 +34,12 @@ Ogni scheda dichiara quanto sono solide le prove su cui si basa.
 
 Una soluzione di livello C può entrare nella biblioteca, ma non può reggere da sola un principio del sistema.
 
+Le visioni che combinano più meccanismi (le sezioni "Che cosa significa per il sistema") sono per definizione di livello C: ogni pezzo esiste da qualche parte, ma nessuno li ha mai sperimentati tutti insieme. Sono ipotesi da verificare, non risultati.
+
+## 3 bis. La revisione avversaria
+
+Ogni area, una volta scritta, viene riletta da revisori indipendenti che non l'hanno scritta. Il loro compito è trovarne i difetti: verificano di nuovo i fatti, cercano affermazioni eccessive e controesempi mancanti, e riscrivono nella forma più forte le obiezioni deboli. Le correzioni vengono applicate solo dopo aver verificato la fonte, e l'esito è riportato nel [registro delle modifiche](registro.md).
+
 ## 4. La regola degli insuccessi
 
 Ogni scheda deve contenere una sezione su **dove la soluzione ha fallito o mostrato limiti**. Una scheda senza insuccessi non è completa.

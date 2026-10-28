@@ -6,7 +6,7 @@
 
 In ogni epoca e in ogni continente qualcuno ha risolto un problema che sembrava impossibile.
 
-Un villaggio svizzero ha gestito per secoli pascoli e acqua senza esaurirli, senza un padrone e senza un esercito. A Valencia un tribunale di contadini, ogni giovedì a mezzogiorno davanti alla cattedrale, risolve le liti sull'acqua da circa mille anni. Due nemici che si erano fatti tre guerre in settant'anni, Francia e Germania, hanno messo in comune il carbone e l'acciaio con cui si armavano, e da allora non si sono più combattuti. Un paese povero e senza sbocco sul mare, il Botswana, ha trovato i diamanti e non è caduto nella maledizione delle risorse. La Norvegia ha trasformato il petrolio in un fondo che appartiene anche ai norvegesi che non sono ancora nati.
+Un villaggio svizzero ha gestito per secoli pascoli e acqua senza esaurirli, senza un padrone e senza un esercito. A Valencia un tribunale di contadini, ogni giovedì a mezzogiorno davanti alla cattedrale, risolve le liti sull'acqua da circa mille anni. Due nemici che si erano fatti tre guerre in settant'anni, Francia e Germania, hanno messo in comune il carbone e l'acciaio con cui si armavano: è stato il primo passo di un'integrazione che ha accompagnato oltre settant'anni di pace tra loro. Un paese povero e senza sbocco sul mare, il Botswana, ha trovato i diamanti e li ha usati per costruire scuole, strade e decenni di democrazia stabile, mentre altrove i diamanti finanziavano guerre. La Norvegia ha trasformato il petrolio in un fondo che appartiene anche ai norvegesi che non sono ancora nati.
 
 Nessuna di queste soluzioni è nata da un'ideologia. Sono nate da persone che avevano un problema concreto e hanno trovato un modo che funzionava.
 

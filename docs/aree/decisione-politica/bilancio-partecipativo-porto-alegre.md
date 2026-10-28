@@ -1,6 +1,6 @@
 # Il bilancio partecipativo (Porto Alegre)
 
-> **In una frase:** gli abitanti di una città si riuniscono nei quartieri, discutono e votano come spendere una parte del bilancio comunale; le loro priorità diventano vincolanti per l'amministrazione.
+> **In una frase:** gli abitanti di una città si riuniscono nei quartieri, discutono e votano come spendere una parte del bilancio comunale; finché il sindaco si impegna politicamente a rispettarle, le loro priorità guidano il piano degli investimenti.
 
 | | |
 |---|---|
@@ -8,7 +8,7 @@
 | **Dove e quando** | Porto Alegre (Brasile) dal 1989, poi oltre 2.700 amministrazioni nel mondo |
 | **Livello di prova** | B |
 | **Criteri migliorati** | Equità, Benessere, Pace e legittimità |
-| **Stato della scheda** | Verificata — ottobre 2026 |
+| **Stato della scheda** | Verificata e revisionata — ottobre 2026 |
 
 ## Il problema che risolve
 
@@ -21,21 +21,24 @@ Nelle città in rapida crescita i servizi di base (acqua, fogne, strade, scuole)
 3. Dopo più cicli di discussione, si **votano le priorità** di spesa per la quota di bilancio prevista [1].
 4. Le priorità vengono distribuite tra i quartieri con criteri che premiano quelli più poveri e più popolosi.
 5. Il ciclo si ripete ogni anno, e i cittadini controllano la realizzazione delle opere decise l'anno prima.
+6. Le regole del processo sono fissate da un regolamento interno che i partecipanti rivedono ogni anno. Il bilancio resta però redatto dall'esecutivo e approvato formalmente dal consiglio comunale: le priorità dei cittadini pesano per impegno politico, non per obbligo di legge [5].
 
 ## Risultati
 
 Entro il 1997, a Porto Alegre [1]:
 
-- gli allacci a fogne e acqua sono passati dal 75% al 98% delle abitazioni;
+- tra il 1989 e il 1996 le abitazioni con acqua potabile sono passate dall'89% al 98%, e la popolazione servita da fognature dal 45% all'85% [5];
 - la quota del bilancio destinata a sanità e istruzione è salita dal 13% a circa il 40%;
 - il numero di scuole è quadruplicato e la costruzione di strade nei quartieri poveri è aumentata di cinque volte;
 - i partecipanti alle assemblee sono passati da meno di 1.000 l'anno nel 1990 a circa 40.000 nel 1999.
 
-Uno studio di Sónia Gonçalves pubblicato su *World Development* ha analizzato i comuni brasiliani tra il 1990 e il 2004: quelli che adottavano il bilancio partecipativo spostavano più risorse verso sanità e servizi igienici, e questo coincideva con una **mortalità infantile più bassa** [3].
+Nello stesso periodo il comune ha aumentato le entrate fiscali di circa il 50% [5]: i risultati riflettono sia il metodo sia la maggiore disponibilità di risorse.
+
+Uno studio di Sónia Gonçalves pubblicato su *World Development* ha analizzato i comuni brasiliani tra il 1990 e il 2004: quelli che adottavano il bilancio partecipativo spostavano più risorse verso sanità e servizi igienici, e questo coincideva con una **mortalità infantile più bassa** [3]. È un'associazione incoraggiante, non ancora una prova di causa.
 
 ## Le condizioni che lo hanno reso possibile
 
-Secondo il World Resources Institute, tre fattori [1]:
+A Porto Alegre il processo ha funzionato per quindici anni grazie all'impegno politico della giunta e a un regolamento interno rivisto ogni anno dai partecipanti, senza una legge che lo garantisse [5]; proprio questa mancanza ne ha permesso lo svuotamento. Il World Resources Institute ne ricava tre condizioni per il futuro [1]:
 
 - un impegno politico sostenuto da strumenti giuridici;
 - risorse finanziarie dedicate e reali;
@@ -50,10 +53,10 @@ Secondo il World Resources Institute, tre fattori [1]:
 
 ## Obiezioni dalle diverse tradizioni
 
-- **Liberale e di mercato:** aumenta la trasparenza e riduce la corruzione nella spesa; ma le assemblee aperte premiano chi è più organizzato, non necessariamente chi rappresenta i bisogni generali.
-- **Socialdemocratica e di sinistra:** ha portato servizi dove mancavano e dato potere ai poveri; il suo declino mostra quanto sia fragile senza tutele di legge.
-- **Conservatrice:** valorizza il quartiere e la comunità locale; ma rischia di indebolire la responsabilità dei consiglieri eletti.
-- **Libertaria:** meglio che siano i cittadini a decidere come si spende il loro denaro piuttosto che i burocrati.
+- **Liberale e di mercato:** il processo favorisce opere piccole e visibili, decise quartiere per quartiere, a scapito della manutenzione, delle infrastrutture di scala urbana e della disciplina di bilancio: a Porto Alegre migliaia di opere approvate non sono mai state realizzate [1]. E le assemblee aperte premiano i militanti organizzati, che possono essere legati al partito al governo.
+- **Socialdemocratica e di sinistra:** le assemblee decidono solo su una parte degli investimenti, mentre le scelte che contano di più (tasse, personale, debito, grandi opere) restano altrove. I quartieri poveri finiscono per competere tra loro per risorse scarse, invece di unirsi per chiederne di più.
+- **Conservatrice:** crea un circuito di potere parallelo al consiglio comunale eletto, senza base di legge, che risponde all'esecutivo e indebolisce la responsabilità dei consiglieri.
+- **Libertaria:** decidere in assemblea come spendere le tasse di tutti non è libertà di scelta. È una maggioranza di chi si presenta che dispone del denaro di chi non c'è. La vera alternativa sarebbe tassare e spendere di meno.
 
 ## Trasferibilità
 
@@ -69,3 +72,4 @@ Già trasferito in tutto il mondo, Italia compresa, con risultati molto variabil
 2. Shareable, *A look at participatory budgeting in Porto Alegre, Brazil*. <https://www.shareable.net/a-look-at-participatory-budgeting-in-porto-alegre-brazil/>
 3. S. Gonçalves, *The Effects of Participatory Budgeting on Municipal Expenditures and Infant Mortality in Brazil*, World Development, 53, 2014. Sintesi: <https://www.peoplepowered.org/resources-content/effects-pb-municipal-expenditures-infant-mortality>
 4. B. Wampler, *Participatory Budgeting in Brazil: Contestation, Cooperation, and Accountability*, Penn State University Press, 2007.
+5. IDEASS, *Orçamento Participativo de Porto Alegre* (scheda). <https://www.ideassonline.org/public/pdf/br_27_58.pdf>

@@ -8,7 +8,7 @@
 | **Dove e quando** | Comunità germanofona del Belgio (Ostbelgien), dal 2019 |
 | **Livello di prova** | C |
 | **Criteri migliorati** | Pace e legittimità, Libertà |
-| **Stato della scheda** | Verificata — ottobre 2026 |
+| **Stato della scheda** | Verificata e revisionata — ottobre 2026 |
 
 ## Il problema che risolve
 
@@ -26,7 +26,7 @@ Le assemblee di cittadini una tantum dipendono dalla buona volontà del governo 
 
 - Sei assemblee hanno lavorato su temi come assistenza agli anziani, scuola inclusiva e casa [1].
 - Esempi di proposte attuate: requisiti più accessibili per le case popolari; un divieto degli smartphone nelle scuole, prima parziale e poi totale, in vigore dal 2025; incentivi per i giovani che scelgono professioni carenti come l'infermieristica [1].
-- La valutazione dopo cinque anni rileva che i poteri di scegliere i temi e di seguirne l'attuazione sono il motore principale del senso di appartenenza dei cittadini. Il radicamento in una legge garantisce che il processo sopravviva alle elezioni, a differenza di esperienze simili a Bruxelles e in Vallonia [2].
+- La valutazione dopo cinque anni rileva che i poteri di scegliere i temi e di seguirne l'attuazione sono il motore principale del senso di appartenenza dei cittadini. Secondo i ricercatori, il radicamento in un decreto protegge il processo dai cambi di maggioranza, una garanzia che potrebbe mancare a esperienze simili a Bruxelles e in Vallonia [2]. Il modello ha superato le elezioni del 2024.
 
 ## Le condizioni che lo hanno reso possibile
 
@@ -39,26 +39,29 @@ Le assemblee di cittadini una tantum dipendono dalla buona volontà del governo 
 - All'inizio il parlamento ha lasciato cadere molte proposte perché troppo vaghe o già esistenti in altra forma. Il sistema è stato corretto chiedendo ai cittadini di motivare le raccomandazioni, così che la politica possa agire sullo spirito di una proposta anche quando la lettera non è traducibile in legge [2].
 - Una sola esperienza di partecipazione spesso non basta a dare voce a chi non è abituato alla politica [2].
 - La pandemia ha rallentato il ricambio dei membri, e il parlamento ha poi ottenuto di scegliere almeno uno dei temi, il che riduce l'autonomia del Consiglio [2].
+- Come in altre assemblee sorteggiate, accetta l'invito solo una piccola parte dei sorteggiati: negli studi sui casi belgi circa il 3% [5]. Le assemblee rispecchiano la popolazione per età, genere e territorio, non necessariamente per interesse verso la politica.
 - Mancano ancora dati sistematici sulla quota di raccomandazioni attuate.
 
 ## Obiezioni dalle diverse tradizioni
 
-- **Liberale e di mercato:** un organo consultivo in più rallenta le decisioni; ma non avendo poteri vincolanti non limita la responsabilità degli eletti.
-- **Socialdemocratica e di sinistra:** porta nelle decisioni persone che di solito restano escluse; ma senza poteri vincolanti resta debole.
-- **Conservatrice:** innovazione graduale e rispettosa delle istituzioni esistenti: affianca il parlamento, non lo sostituisce.
-- **Libertaria:** apprezza che i cittadini scelgano i temi; diffida di un'istituzione permanente che potrebbe diventare a sua volta un apparato.
+- **Liberale e di mercato:** se le proposte non sono vincolanti, l'obbligo di due dibattiti è un costo senza garanzia di valore. Se lo diventassero, un piccolo gruppo autoselezionato (accetta l'invito solo una piccola parte dei sorteggiati [5]) avrebbe un potere sproporzionato. In entrambi i casi l'istituzione tende a crescere.
+- **Socialdemocratica e di sinistra:** senza poteri vincolanti resta debole. E la democrazia "per sorteggio" può diventare una scorciatoia che scavalca partiti, sindacati e associazioni, cioè i corpi intermedi con cui i più deboli si organizzano davvero [6].
+- **Conservatrice:** un'istituzione permanente, disegnata da attivisti e ricercatori della democrazia deliberativa, sposta l'agenda politica verso chi organizza il processo. Gli eletti, che rispondono alle urne, vengono messi sotto pressione da un organo che non risponde a nessuno.
+- **Libertaria:** un'istituzione permanente che sceglie da sé i propri temi tende a cercare sempre nuovi campi in cui intervenire, e a diventare a sua volta un apparato che produce regole.
 
 ## Trasferibilità
 
-Molto alta, soprattutto a livello comunale e regionale. Il modello è stato ripreso da altre città europee, tra cui Parigi con un'assemblea cittadina permanente. Gli elementi trasferibili sono il radicamento per legge, il potere di scegliere i temi, l'obbligo di risposta del parlamento e il controllo dell'attuazione. Va adattato nelle realtà grandi, dove un solo consiglio rappresenta milioni di persone.
+Promettente, soprattutto a livello comunale e regionale, ma ancora da verificare: il modello ha poco più di cinque anni di vita in una comunità di 80.000 abitanti. L'idea è stata ripresa da altre città europee, tra cui Parigi con un'assemblea cittadina permanente. Gli elementi trasferibili sono il radicamento per legge, il potere di scegliere i temi, l'obbligo di risposta del parlamento e il controllo dell'attuazione. Va adattato nelle realtà grandi, dove un solo consiglio rappresenta milioni di persone.
 
 ## Il principio che ne ricaviamo
 
-**La partecipazione dei cittadini funziona quando è permanente, garantita per legge, sceglie da sé i propri temi e obbliga la politica a rispondere.**
+**La partecipazione dei cittadini ha le premesse migliori per durare quando è permanente, garantita per legge, sceglie da sé i propri temi e obbliga la politica a rispondere.**
 
 ## Fonti
 
 1. Carnegie UK, *Deliberative Case Study: The Ostbelgien Model*, 2026. <https://carnegieuk.org/wp-content/uploads/2026/07/Deliberative-Case-Study-The-Ostbelgien-Model.pdf>
-2. *The Ostbelgien Model: five years on*, Journal of Deliberative Democracy / publicdeliberation.net. <https://www.publicdeliberation.net/?p=1375>
+2. P. Velghe, J. Bottin, C. Niessen, R. Gebauer, A.-M. Sautter, M. Reuchamps, *The Ostbelgien Model: five years on*, Deliberative Democracy Digest, 31 gennaio 2025. <https://www.publicdeliberation.net/?p=1375>
 3. Interreg Europe, *Permanent Citizens' Dialogue in Ostbelgien*. <https://www.interregeurope.eu/good-practices/permanent-citizens-dialogue-in-ostbelgien>
 4. Comunicato del Parlamento della Comunità germanofona, 26 febbraio 2019. <https://www.futuregenerations.be/files/documents/news/20190226_dgpermanentcitizensassembly_pressrelease.pdf>
+5. V. Jacquet, *Explaining non-participation in deliberative mini-publics*, European Journal of Political Research, 56(3), 2017. Sintesi: <https://equalitybylot.com/2017/02/17/explaining-non-participation-in-deliberative-mini-publics/>
+6. C. Lafont, *Democracy without Shortcuts: A Participatory Conception of Deliberative Democracy*, Oxford University Press, 2019. <https://doi.org/10.1093/oso/9780198848189.001.0001>
