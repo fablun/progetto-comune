@@ -14,7 +14,7 @@ La mappa completa del lavoro. Le parti segnate **in corso** hanno già contenuti
 
 ## Parte II — I principi
 
-**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono) · [Economia e lavoro](aree/economia-e-lavoro/index.md#i-principi-che-emergono) · [Welfare, salute e casa](aree/welfare-salute-casa/index.md#i-principi-che-emergono)
+**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono) · [Stato e amministrazione](aree/stato-e-amministrazione/index.md#i-principi-che-emergono) · [Economia e lavoro](aree/economia-e-lavoro/index.md#i-principi-che-emergono) · [Welfare, salute e casa](aree/welfare-salute-casa/index.md#i-principi-che-emergono)
 
 ## Parte III — La biblioteca dei meccanismi
 
@@ -24,7 +24,7 @@ Ogni area raccoglie schede istituzionali con lo stesso formato. → [Modello di 
 
 **6. Decisione politica** — *in corso*. Come si prendono decisioni legittime e informate: assemblee di cittadini sorteggiati, democrazia diretta, deliberazione digitale, bilancio partecipativo, decentramento, sistemi elettorali, finanziamento della politica. → [Apri l'area](aree/decisione-politica/index.md)
 
-**7. Stato e amministrazione.** Come si costruisce uno Stato efficiente e non corrotto: amministrazione digitale, burocrazia meritocratica, agenzie anticorruzione, decentramento.
+**7. Stato e amministrazione** — *in corso*. Come si costruisce uno Stato efficiente e non corrotto: amministrazione digitale, trasparenza degli atti e degli appalti, controlli a sorteggio, agenzie anticorruzione, merito, regole sui conti pubblici. → [Apri l'area](aree/stato-e-amministrazione/index.md)
 
 **8. Economia e lavoro** — *in corso*. Come si genera prosperità diffusa: flessibilità con sicurezza, cogestione, cooperative, formazione professionale, salario minimo, politica industriale, uscita dalla povertà e dal sommerso. → [Apri l'area](aree/economia-e-lavoro/index.md)
 

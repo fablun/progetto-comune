@@ -19,7 +19,7 @@ hide:
 </section>
 
 <section class="pc-atlas" aria-labelledby="atlante">
-<p class="pc-atlas__intro" id="atlante">Quaranta luoghi in cui qualcosa ha funzionato, o ha fallito in modo istruttivo. Ogni voce è una scheda verificata.</p>
+<p class="pc-atlas__intro" id="atlante">Cinquanta luoghi in cui qualcosa ha funzionato, o ha fallito in modo istruttivo. Ogni voce è una scheda verificata.</p>
 <ul class="pc-atlas__list">
 <li><a href="aree/risorse-e-conflitti/beni-comuni-ostrom/"><span class="pc-atlas__place">Törbel e Valencia</span><span class="pc-atlas__what">I beni comuni gestiti da chi li usa</span></a></li>
 <li><a href="aree/risorse-e-conflitti/comunita-carbone-acciaio/"><span class="pc-atlas__place">Francia e Germania</span><span class="pc-atlas__what">Carbone e acciaio messi in comune</span></a></li>
@@ -61,6 +61,16 @@ hide:
 <li><a href="aree/welfare-salute-casa/reddito-base-finlandia/"><span class="pc-atlas__place">Finlandia</span><span class="pc-atlas__what">Un reddito senza condizioni, sperimentato</span></a></li>
 <li><a href="aree/welfare-salute-casa/pensioni-svezia-cile/"><span class="pc-atlas__place">Svezia e Cile</span><span class="pc-atlas__what">Pensioni che si aggiustano da sole</span></a></li>
 <li><a href="aree/welfare-salute-casa/asili-quebec/"><span class="pc-atlas__place">Québec</span><span class="pc-atlas__what">Asili per tutti, e la lezione sulla qualità</span></a></li>
+<li><a href="aree/stato-e-amministrazione/stato-digitale-estonia/"><span class="pc-atlas__place">Estonia</span><span class="pc-atlas__what">Lo Stato che chiede tutto una volta sola</span></a></li>
+<li><a href="aree/stato-e-amministrazione/identita-digitale-india/"><span class="pc-atlas__place">India</span><span class="pc-atlas__what">Sussidi pagati con l'identità digitale</span></a></li>
+<li><a href="aree/stato-e-amministrazione/appalti-aperti-ucraina/"><span class="pc-atlas__place">Ucraina</span><span class="pc-atlas__what">Ogni appalto pubblico visibile a tutti</span></a></li>
+<li><a href="aree/stato-e-amministrazione/trasparenza-svezia/"><span class="pc-atlas__place">Svezia, 1766</span><span class="pc-atlas__what">Il diritto di leggere gli atti pubblici</span></a></li>
+<li><a href="aree/stato-e-amministrazione/audit-sorteggio-brasile/"><span class="pc-atlas__place">Comuni del Brasile</span><span class="pc-atlas__what">Controlli anticorruzione a sorteggio</span></a></li>
+<li><a href="aree/stato-e-amministrazione/anticorruzione-hong-kong/"><span class="pc-atlas__place">Hong Kong</span><span class="pc-atlas__what">Un'agenzia anticorruzione indipendente</span></a></li>
+<li><a href="aree/stato-e-amministrazione/servizio-pubblico-singapore/"><span class="pc-atlas__place">Singapore</span><span class="pc-atlas__what">Funzionari scelti per merito e ben pagati</span></a></li>
+<li><a href="aree/stato-e-amministrazione/polizia-georgia/"><span class="pc-atlas__place">Georgia</span><span class="pc-atlas__what">Una polizia rifondata da zero</span></a></li>
+<li><a href="aree/stato-e-amministrazione/freno-debito-svizzera/"><span class="pc-atlas__place">Svizzera</span><span class="pc-atlas__what">Il freno al debito votato dai cittadini</span></a></li>
+<li><a href="aree/stato-e-amministrazione/anticorruzione-indonesia/"><span class="pc-atlas__place">Indonesia</span><span class="pc-atlas__what">L'agenzia anticorruzione smontata</span></a></li>
 </ul>
 </section>
 
@@ -71,7 +81,7 @@ Il documento procede in sei parti, dalla domanda iniziale fino alla proposta. Le
 <ol class="pc-parts">
 <li><span class="pc-parts__num">I</span><span><span class="pc-parts__title"><a href="metodo/">Il problema e il metodo</a></span><span class="pc-parts__desc">Perché i sistemi falliscono, che cosa vuol dire "funzionare" e come pesiamo le prove.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--live">Pubblicata</span></span></li>
 <li><span class="pc-parts__num">II</span><span><span class="pc-parts__title"><a href="indice/#parte-ii-i-principi">I principi</a></span><span class="pc-parts__desc">Le regole che tornano in ogni area. Si scrive man mano che la biblioteca cresce.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">In costruzione</span></span></li>
-<li><span class="pc-parts__num">III</span><span><span class="pc-parts__title"><a href="aree/">La biblioteca dei meccanismi</a></span><span class="pc-parts__desc">Undici aree, dieci schede ciascuna. Pronte: risorse e conflitti, decisione politica, economia e lavoro, welfare, salute e casa.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">4 aree su 11</span></span></li>
+<li><span class="pc-parts__num">III</span><span><span class="pc-parts__title"><a href="aree/">La biblioteca dei meccanismi</a></span><span class="pc-parts__desc">Undici aree, dieci schede ciascuna. Pronte: risorse e conflitti, decisione politica, Stato e amministrazione, economia e lavoro, welfare, salute e casa.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">5 aree su 11</span></span></li>
 <li><span class="pc-parts__num">IV</span><span><span class="pc-parts__title"><a href="indice/#parte-iv-assemblare-un-sistema">Assemblare un sistema</a></span><span class="pc-parts__desc">Come combinare i meccanismi secondo il punto di partenza di ogni paese.</span></span><span class="pc-parts__status"><span class="pc-status">Da scrivere</span></span></li>
 <li><span class="pc-parts__num">V</span><span><span class="pc-parts__title"><a href="indice/#parte-v-la-visione">La visione</a></span><span class="pc-parts__desc">Che cosa cambierebbe nella vita di una persona comune, e come costruire il movimento.</span></span><span class="pc-parts__status"><span class="pc-status">Da scrivere</span></span></li>
 <li><span class="pc-parts__num">VI</span><span><span class="pc-parts__title"><a href="contribuire/">Il documento vivo</a></span><span class="pc-parts__desc">Le regole per contribuire, verificare e rivedere, e il registro di ogni modifica.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--live">Pubblicata</span></span></li>
