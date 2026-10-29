@@ -8,7 +8,7 @@
 | **Dove e quando** | Ucraina, sperimentazione dal 2015, obbligatorio per tutti gli acquisti pubblici dall'agosto 2016 |
 | **Livello di prova** | B / C |
 | **Criteri migliorati** | Prosperità, Pace e legittimità |
-| **Stato della scheda** | Bozza in revisione — ottobre 2026 |
+| **Stato della scheda** | Verificata e revisionata — ottobre 2026 |
 
 ## Il problema che risolve
 
@@ -40,7 +40,8 @@ Gli appalti pubblici sono il luogo dove la corruzione costa di più: gare cucite
 - **Prove deboli sull'effetto causale.** Lo studio del Center for Global Development avverte che i risultati sono associazioni, non effetti causali dimostrati: alcuni non reggono a controlli più rigorosi, e ci sono segnali che gli enti abbiano anticipato o rinviato acquisti per evitare il nuovo sistema [1].
 - **La trasparenza non elimina gli accordi tra imprese**: le gare possono essere aggirate con offerte concordate tra i partecipanti.
 - **L'Ucraina resta un paese con corruzione elevata**: la piattaforma ha cambiato gli appalti, non da sola il sistema politico.
-- Le eccezioni alla procedura aperta, soprattutto in tempo di guerra, riducono la parte di spesa coperta.
+- **Dove la piattaforma non arriva, la corruzione torna.** Con la guerra parte degli acquisti militari è stata sottratta a Prozorro per ragioni di segretezza. Nel gennaio 2023 i giornalisti hanno scoperto forniture di cibo per l'esercito a prezzi gonfiati: il viceministro della difesa si è dimesso ed è stato poi arrestato, e il parlamento ha imposto al ministero di pubblicare entro dieci giorni i prezzi dei contratti, anche durante la legge marziale [4]. È una prova, in entrambi i sensi, di quanto conti la trasparenza degli appalti.
+- **Le istituzioni anticorruzione hanno anche nemici al governo.** Nel luglio 2025 il parlamento ha approvato una legge che toglieva l'indipendenza alle agenzie anticorruzione (NABU e SAPO); dopo nove giorni di proteste in molte città e le critiche dell'Unione Europea, è stata sostituita da una nuova legge che la ripristinava [5].
 
 ## Obiezioni dalle diverse tradizioni
 
@@ -51,7 +52,7 @@ Gli appalti pubblici sono il luogo dove la corruzione costa di più: gare cucite
 
 ## Trasferibilità
 
-Altissima: piattaforme di appalti elettronici esistono già in molti paesi, ma spesso con dati chiusi o parziali. Gli elementi da trasferire: **tutti gli acquisti, anche i piccoli, su un'unica piattaforma**, **dati aperti** in formato standard, e la possibilità per giornalisti, imprese e cittadini di analizzarli. La trasparenza va affiancata da autorità capaci di sanzionare i cartelli e di intervenire sulle anomalie.
+Alta sul piano tecnico, meno certa negli effetti: piattaforme di appalti elettronici esistono già in molti paesi, ma spesso con dati chiusi o parziali. Gli elementi da trasferire: **tutti gli acquisti, anche i piccoli, su un'unica piattaforma**, **dati aperti** in formato standard, e la possibilità per giornalisti, imprese e cittadini di analizzarli. La trasparenza va affiancata da autorità capaci di sanzionare i cartelli e di intervenire sulle anomalie, e le eccezioni (come quelle per la difesa) vanno tenute al minimo e controllate in altro modo.
 
 ## Il principio che ne ricaviamo
 
@@ -62,3 +63,5 @@ Altissima: piattaforme di appalti elettronici esistono già in molti paesi, ma s
 1. Center for Global Development, *Examining the impact of e-procurement in Ukraine: the role of government administration and the private sector*. <https://www.cgdev.org/sites/default/files/examining-impact-e-procurement-ukraine.pdf>
 2. Open Contracting Partnership, *Learning insights: the latest impacts emerging from Ukraine's Prozorro reforms*, 2018. <https://www.open-contracting.org/2018/01/12/learning-insights-latest-impacts-emerging-ukraines-prozorro-reforms/>
 3. Transparency International Ukraine, *Monitoring ProZorro*, 2017. <https://ti-ukraine.org/wp-content/uploads/2017/06/Report-monitoring-ProZorro-eng.pdf>
+4. Euromaidan Press, *Army procurement scandal prompts Ukraine to boost transparency, but more needed for sustainable reform*, 20 marzo 2023. <https://euromaidanpress.com/2023/03/20/army-procurement-scandal-prompts-ukraine-to-boost-transparency-but-more-needed-for-sustainable-reform/>
+5. Wikipedia, *2025 anti-corruption protests in Ukraine*. <https://en.wikipedia.org/wiki/2025_anti-corruption_protests_in_Ukraine>

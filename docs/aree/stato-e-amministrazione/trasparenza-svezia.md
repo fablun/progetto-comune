@@ -8,7 +8,7 @@
 | **Dove e quando** | Svezia, dal 1766 (con interruzioni); oggi nella legge sulla libertà di stampa del 1949 |
 | **Livello di prova** | B |
 | **Criteri migliorati** | Libertà, Pace e legittimità |
-| **Stato della scheda** | Bozza in revisione — ottobre 2026 |
+| **Stato della scheda** | Verificata e revisionata — ottobre 2026 |
 
 ## Il problema che risolve
 
@@ -24,8 +24,8 @@ Un'amministrazione che lavora in segreto può nascondere errori, sprechi e abusi
 
 ## Risultati
 
-- La legge del 1766 ha subito rivitalizzato il dibattito politico e aumentato le pubblicazioni [1].
-- Il principio è diventato un pilastro della cultura politica svedese e si è diffuso nel tempo, ispirando le leggi sull'accesso agli atti adottate da oltre cento paesi.
+- La legge del 1766 ha subito rivitalizzato il dibattito politico [1].
+- Il principio è diventato un pilastro della cultura politica svedese ed è stato il primo esempio di un diritto che oggi esiste, in forme diverse, in circa 125 paesi [4].
 - La Svezia e i paesi nordici, che hanno principi simili, sono da decenni tra i paesi con meno corruzione e più fiducia nelle istituzioni. Il legame causale con la trasparenza è plausibile ma difficile da isolare da altri fattori.
 
 ## Le condizioni che lo hanno reso possibile
@@ -40,6 +40,7 @@ Un'amministrazione che lavora in segreto può nascondere errori, sprechi e abusi
 - **Eccezioni crescenti**: le leggi sul segreto, per sicurezza nazionale, privacy e interessi commerciali, sono diventate numerose e complesse.
 - **La sfida digitale**: email, chat e documenti informali rendono più difficile stabilire che cosa sia un "atto pubblico".
 - **Il conflitto con la privacy**: la pubblicità di molti dati personali, come redditi e indirizzi, è oggi discussa.
+- **La legge da sola non basta.** Uno studio su 128 paesi non trova che adottare una legge sull'accesso agli atti riduca la corruzione percepita; nei paesi in via di sviluppo l'adozione è stata seguita, in media, da un aumento della corruzione percepita, forse perché i casi diventano più visibili [5]. Negli Stati Uniti, invece, gli Stati che hanno rafforzato queste leggi hanno visto prima raddoppiare le condanne per corruzione, segno che i casi venivano scoperti di più, e poi una riduzione della corruzione stimata intorno al 20%, più forte dove i media erano più attivi [6]. La trasparenza funziona dove c'è chi la usa.
 
 ## Obiezioni dalle diverse tradizioni
 
@@ -61,3 +62,6 @@ Molto alta: quasi tutte le democrazie hanno oggi una legge sull'accesso agli att
 1. Wikipedia, *Swedish Freedom of the Press Act*. <https://en.wikipedia.org/wiki/Swedish_Freedom_of_the_Press_Act>
 2. Britannica, *Freedom of the Press Act of 1766*. <https://www.britannica.com/topic/Freedom-of-the-Press-Act-of-1766>
 3. The Local, *Happy 250th birthday: Sweden's pioneering free press act*, 2016. <https://www.thelocal.se/20161202/happy-250th-birthday-swedens-pioneering-free-press-act>
+4. IISD SDG Knowledge Hub, *UNESCO finds 125 countries provide for access to information*, 18 luglio 2019. <https://sdg.iisd.org/news/unesco-finds-125-countries-provide-for-access-to-information/>
+5. M. Stephenson, *Is Sunlight Really a Good Disinfectant? The Equivocal Evidence on Freedom of Information Laws and Corruption*, Global Anticorruption Blog, 16 febbraio 2016 (sintesi, tra gli altri, di Escaleras, Lin, Register, *Public Choice*, 145(3), 2010). <https://globalanticorruptionblog.com/2016/02/16/is-sunlight-really-a-good-disinfectant-the-equivocal-evidence-on-freedom-of-information-laws-and-corruption/>
+6. A. Cordis, P. Warren, *Sunshine as disinfectant: The effect of state Freedom of Information Act laws on public corruption*, Journal of Public Economics, 115, 2014. <https://ideas.repec.org/a/eee/pubeco/v115y2014icp18-36.html>

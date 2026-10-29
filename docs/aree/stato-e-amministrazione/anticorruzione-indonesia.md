@@ -37,7 +37,7 @@ Nel settembre 2019 il parlamento ha approvato in pochi giorni una modifica della
 - il personale dell'agenzia è diventato **parte della pubblica amministrazione**, esposto alle stesse logiche di carriera e di clientela;
 - l'agenzia può ora **archiviare i casi** non conclusi entro due anni [1][7].
 
-Studenti, accademici e società civile hanno protestato in molte città [1]. La legge è stata discussa a porte chiuse, senza consultare l'agenzia, e votata con soli 107 deputati presenti in aula, molti meno di quelli necessari per il numero legale [1].
+Studenti, accademici e società civile hanno protestato in molte città [1]. La legge è stata approvata in dodici giorni, discussa a porte chiuse senza consultare l'agenzia, e votata con soli 107 deputati presenti in aula, molti meno di quelli necessari per il numero legale [1].
 
 **Dopo la riforma.** Nel passaggio dei dipendenti alla pubblica amministrazione, un "test di fedeltà nazionale" ha portato nel settembre 2021 al licenziamento di 57 persone, tra cui alcuni dei migliori investigatori. L'Ombudsman ha giudicato la procedura irregolare, e la Commissione nazionale per i diritti umani vi ha trovato violazioni dei diritti [8]. Nel novembre 2023 il presidente del KPK nominato dopo la riforma è stato indagato dalla polizia per estorsione nei confronti di un ex ministro [9].
 
