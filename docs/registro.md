@@ -2,6 +2,20 @@
 
 Le modifiche dettagliate sono visibili nella cronologia del repository. Qui sono riassunte le versioni principali.
 
+## Versione 0.4 — ottobre 2026: prima revisione avversaria
+
+Tre revisori indipendenti, uno per area, hanno riletto le trenta schede cercandone i difetti. Hanno segnalato 147 problemi: 34 di gravità alta, 81 media, 32 bassa. Le correzioni sono state applicate dopo aver verificato ogni nuovo dato sulla fonte; i dati che non è stato possibile verificare non sono stati inseriti.
+
+Le correzioni principali:
+
+- **Errori di fatto corretti**, tra cui: il voto dell'assemblea irlandese sull'ottavo emendamento (87%, non 64%), la procedura di revisione costituzionale islandese, la lunghezza del fiume Senegal e la potenza delle sue dighe, il fondo di sviluppo del Botswana, la durata della Kurzarbeit, il livello del salario minimo britannico, la data dei consigli di fabbrica tedeschi.
+- **Livelli di prova rivisti**: cogestione tedesca (A / B), salario minimo britannico (B per il metodo, A ma contestato per gli effetti sull'occupazione), beni comuni di Ostrom (A / B).
+- **Obiezioni riscritte nella loro forma più forte** in tutte le schede in cui erano lodi travestite.
+- **Insuccessi e controesempi aggiunti**, tra cui: le assemblee di cittadini bocciate dal referendum in Canada e in Irlanda, l'esito della regolazione di Uber a Taiwan, l'espulsione dei San in Botswana, i prelievi dalle riserve del Botswana, l'indennizzo solo formale della riforma agraria giapponese, il dibattito accademico sul salario minimo, la crescita del microcredito nonostante le prove deboli.
+- **Principi delle sintesi riscritti** dove erano forzati o contraddetti dalle schede; le visioni combinate sono ora dichiarate ipotesi di livello C.
+- **Metodo**: aggiunta la revisione avversaria come passaggio fisso per ogni area.
+- Ogni scheda riporta ora lo stato "Verificata e revisionata — ottobre 2026".
+
 ## Versione 0.3 — ottobre 2026
 
 - Area **Economia e lavoro**: dieci schede e sintesi di otto principi.

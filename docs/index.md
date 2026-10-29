@@ -41,4 +41,4 @@ Questo documento migliora solo se qualcuno lo corregge. Se conosci una soluzione
 
 ---
 
-*Versione 0.3 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*
+*Versione 0.4 — ottobre 2026. Bozza di lavoro: tutto è aperto alla revisione.*
