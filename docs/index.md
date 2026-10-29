@@ -87,7 +87,7 @@ Il documento procede in sei parti, dalla domanda iniziale fino alla proposta. Le
 
 <h2 id="partecipa">Questo documento è giusto quanto le persone che lo correggono.</h2>
 
-<p class="pc-join__lead">Abbiamo trovato e corretto 147 problemi nelle prime trenta schede. Ne restano altri, e servono occhi diversi dai nostri per trovarli. Bastano cinque minuti e un account GitHub gratuito.</p>
+<p class="pc-join__lead">I revisori hanno trovato e corretto 187 problemi nelle prime quaranta schede. Ne restano altri, e servono occhi diversi dai nostri per trovarli. Bastano cinque minuti e un account GitHub gratuito.</p>
 
 <div class="pc-join__actions">
 <div class="pc-join__action">
@@ -111,4 +111,4 @@ Il documento procede in sei parti, dalla domanda iniziale fino alla proposta. Le
 
 </section>
 
-<p class="pc-version">Versione 0.4, ottobre 2026. Bozza di lavoro aperta alla revisione. <a href="registro/">Registro delle modifiche</a>.</p>
+<p class="pc-version">Versione 0.5, ottobre 2026. Bozza di lavoro aperta alla revisione. <a href="registro/">Registro delle modifiche</a>.</p>

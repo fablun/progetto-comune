@@ -2,6 +2,11 @@
 
 Le modifiche dettagliate sono visibili nella cronologia del repository. Qui sono riassunte le versioni principali.
 
+## Versione 0.5 — ottobre 2026
+
+- Area **Welfare, salute e casa**: dieci schede e sintesi dei principi, pubblicate dopo la revisione avversaria. Il revisore ha segnalato 40 problemi (10 di gravità alta), tutti corretti prima della pubblicazione, tra cui: l'effetto dell'abolizione del programma messicano Prospera (9 punti di iscrizioni per tutti i ragazzi, 12 per i maschi), i dati ufficiali sulle persone senza dimora in Finlandia, la storia delle pensioni di solidarietà in Cile, le esenzioni dai premi in Ruanda, il controesempio di Housing First negli Stati Uniti e quello di Hong Kong sulla proprietà pubblica dei suoli.
+- Nuova grafica: navigazione per sezioni, home con l'atlante dei luoghi e la struttura del documento, blocco "Partecipa" con tre azioni dirette, nuovo modulo per aggiungere obiezioni.
+
 ## Versione 0.4 — ottobre 2026: prima revisione avversaria
 
 Tre revisori indipendenti, uno per area, hanno riletto le trenta schede cercandone i difetti. Hanno segnalato 147 problemi: 34 di gravità alta, 81 media, 32 bassa. Le correzioni sono state applicate dopo aver verificato ogni nuovo dato sulla fonte; i dati che non è stato possibile verificare non sono stati inseriti.
