@@ -14,7 +14,7 @@ La mappa completa del lavoro. Le parti segnate **in corso** hanno già contenuti
 
 ## Parte II — I principi
 
-**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono) · [Economia e lavoro](aree/economia-e-lavoro/index.md#i-principi-che-emergono)
+**4. I principi emersi dalle prove.** Un nucleo ridotto di principi universali, ricavati dalle schede della Parte III e aggiornati man mano che la biblioteca cresce. I primi sono già emersi dalle aree pubblicate. → [Risorse e conflitti](aree/risorse-e-conflitti/index.md#i-principi-che-emergono) · [Decisione politica](aree/decisione-politica/index.md#i-principi-che-emergono) · [Economia e lavoro](aree/economia-e-lavoro/index.md#i-principi-che-emergono) · [Welfare, salute e casa](aree/welfare-salute-casa/index.md#i-principi-che-emergono)
 
 ## Parte III — La biblioteca dei meccanismi
 
@@ -28,7 +28,7 @@ Ogni area raccoglie schede istituzionali con lo stesso formato. → [Modello di 
 
 **8. Economia e lavoro** — *in corso*. Come si genera prosperità diffusa: flessibilità con sicurezza, cogestione, cooperative, formazione professionale, salario minimo, politica industriale, uscita dalla povertà e dal sommerso. → [Apri l'area](aree/economia-e-lavoro/index.md)
 
-**9. Welfare, salute e casa.** Come si garantisce una vita dignitosa: sanità primaria universale, edilizia pubblica, trasferimenti monetari, sperimentazioni di reddito di base, pensioni.
+**9. Welfare, salute e casa** — *in corso*. Come si garantisce una vita dignitosa: copertura sanitaria universale, medicina di base, casa sociale, Housing First, trasferimenti alle famiglie, reddito di base, pensioni, asili. → [Apri l'area](aree/welfare-salute-casa/index.md)
 
 **10. Istruzione.** Come si formano persone capaci e libere: sistemi scolastici di eccellenza, prima infanzia, apprendimento lungo tutta la vita.
 

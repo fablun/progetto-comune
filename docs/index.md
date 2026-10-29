@@ -19,7 +19,7 @@ hide:
 </section>
 
 <section class="pc-atlas" aria-labelledby="atlante">
-<p class="pc-atlas__intro" id="atlante">Trenta luoghi in cui qualcosa ha funzionato, o ha fallito in modo istruttivo. Ogni voce è una scheda verificata.</p>
+<p class="pc-atlas__intro" id="atlante">Quaranta luoghi in cui qualcosa ha funzionato, o ha fallito in modo istruttivo. Ogni voce è una scheda verificata.</p>
 <ul class="pc-atlas__list">
 <li><a href="aree/risorse-e-conflitti/beni-comuni-ostrom/"><span class="pc-atlas__place">Törbel e Valencia</span><span class="pc-atlas__what">I beni comuni gestiti da chi li usa</span></a></li>
 <li><a href="aree/risorse-e-conflitti/comunita-carbone-acciaio/"><span class="pc-atlas__place">Francia e Germania</span><span class="pc-atlas__what">Carbone e acciaio messi in comune</span></a></li>
@@ -51,6 +51,16 @@ hide:
 <li><a href="aree/economia-e-lavoro/politica-industriale-corea/"><span class="pc-atlas__place">Corea del Sud</span><span class="pc-atlas__what">Sostegno all'industria in cambio di risultati</span></a></li>
 <li><a href="aree/economia-e-lavoro/semplificazione-fiscale-brasile/"><span class="pc-atlas__place">Brasile</span><span class="pc-atlas__what">Un'imposta unica per uscire dal sommerso</span></a></li>
 <li><a href="aree/economia-e-lavoro/azionariato-dipendenti/"><span class="pc-atlas__place">Stati Uniti e Regno Unito</span><span class="pc-atlas__what">I dipendenti proprietari dell'impresa</span></a></li>
+<li><a href="aree/welfare-salute-casa/sanita-universale-thailandia/"><span class="pc-atlas__place">Thailandia</span><span class="pc-atlas__what">Sanità per tutti in un paese a reddito medio</span></a></li>
+<li><a href="aree/welfare-salute-casa/medicina-famiglia-brasile/"><span class="pc-atlas__place">Brasile</span><span class="pc-atlas__what">Squadre di salute che visitano le famiglie</span></a></li>
+<li><a href="aree/welfare-salute-casa/assicurazione-comunitaria-ruanda/"><span class="pc-atlas__place">Ruanda</span><span class="pc-atlas__what">Un'assicurazione sanitaria quasi per tutti</span></a></li>
+<li><a href="aree/welfare-salute-casa/casa-sociale-vienna/"><span class="pc-atlas__place">Vienna</span><span class="pc-atlas__what">Case a prezzo di costo per la maggioranza</span></a></li>
+<li><a href="aree/welfare-salute-casa/casa-pubblica-singapore/"><span class="pc-atlas__place">Singapore</span><span class="pc-atlas__what">Case pubbliche vendute ai cittadini</span></a></li>
+<li><a href="aree/welfare-salute-casa/housing-first/"><span class="pc-atlas__place">Finlandia e Canada</span><span class="pc-atlas__what">Prima la casa a chi vive in strada</span></a></li>
+<li><a href="aree/welfare-salute-casa/trasferimenti-condizionati/"><span class="pc-atlas__place">Messico</span><span class="pc-atlas__what">Denaro alle famiglie se i figli studiano</span></a></li>
+<li><a href="aree/welfare-salute-casa/reddito-base-finlandia/"><span class="pc-atlas__place">Finlandia</span><span class="pc-atlas__what">Un reddito senza condizioni, sperimentato</span></a></li>
+<li><a href="aree/welfare-salute-casa/pensioni-svezia-cile/"><span class="pc-atlas__place">Svezia e Cile</span><span class="pc-atlas__what">Pensioni che si aggiustano da sole</span></a></li>
+<li><a href="aree/welfare-salute-casa/asili-quebec/"><span class="pc-atlas__place">Québec</span><span class="pc-atlas__what">Asili per tutti, e la lezione sulla qualità</span></a></li>
 </ul>
 </section>
 
@@ -61,7 +71,7 @@ Il documento procede in sei parti, dalla domanda iniziale fino alla proposta. Le
 <ol class="pc-parts">
 <li><span class="pc-parts__num">I</span><span><span class="pc-parts__title"><a href="metodo/">Il problema e il metodo</a></span><span class="pc-parts__desc">Perché i sistemi falliscono, che cosa vuol dire "funzionare" e come pesiamo le prove.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--live">Pubblicata</span></span></li>
 <li><span class="pc-parts__num">II</span><span><span class="pc-parts__title"><a href="indice/#parte-ii-i-principi">I principi</a></span><span class="pc-parts__desc">Le regole che tornano in ogni area. Si scrive man mano che la biblioteca cresce.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">In costruzione</span></span></li>
-<li><span class="pc-parts__num">III</span><span><span class="pc-parts__title"><a href="aree/">La biblioteca dei meccanismi</a></span><span class="pc-parts__desc">Undici aree, dieci schede ciascuna. Pronte: risorse e conflitti, decisione politica, economia e lavoro.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">3 aree su 11</span></span></li>
+<li><span class="pc-parts__num">III</span><span><span class="pc-parts__title"><a href="aree/">La biblioteca dei meccanismi</a></span><span class="pc-parts__desc">Undici aree, dieci schede ciascuna. Pronte: risorse e conflitti, decisione politica, economia e lavoro, welfare, salute e casa.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--part">4 aree su 11</span></span></li>
 <li><span class="pc-parts__num">IV</span><span><span class="pc-parts__title"><a href="indice/#parte-iv-assemblare-un-sistema">Assemblare un sistema</a></span><span class="pc-parts__desc">Come combinare i meccanismi secondo il punto di partenza di ogni paese.</span></span><span class="pc-parts__status"><span class="pc-status">Da scrivere</span></span></li>
 <li><span class="pc-parts__num">V</span><span><span class="pc-parts__title"><a href="indice/#parte-v-la-visione">La visione</a></span><span class="pc-parts__desc">Che cosa cambierebbe nella vita di una persona comune, e come costruire il movimento.</span></span><span class="pc-parts__status"><span class="pc-status">Da scrivere</span></span></li>
 <li><span class="pc-parts__num">VI</span><span><span class="pc-parts__title"><a href="contribuire/">Il documento vivo</a></span><span class="pc-parts__desc">Le regole per contribuire, verificare e rivedere, e il registro di ogni modifica.</span></span><span class="pc-parts__status"><span class="pc-status pc-status--live">Pubblicata</span></span></li>
