@@ -8,8 +8,14 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: it
+  font:
+    text: Source Serif 4
+    code: IBM Plex Mono
   features:
-    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
     - navigation.top
     - navigation.footer
     - search.suggest
@@ -19,20 +25,23 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Tema scuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Tema chiaro
   icon:
     repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/comune.css
 
 plugins:
   - search:
@@ -42,51 +51,58 @@ markdown_extensions:
   - admonition
   - tables
   - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 
 nav:
-  - Home: index.md
-  - Il metodo: metodo.md
-  - Indice ragionato: indice.md
-  - "Area: Risorse e conflitti":
-      - Sintesi e principi: aree/risorse-e-conflitti/index.md
-      - Beni comuni autogestiti: aree/risorse-e-conflitti/beni-comuni-ostrom.md
-      - Mettere in comune le risorse della guerra: aree/risorse-e-conflitti/comunita-carbone-acciaio.md
-      - Il fondo sovrano norvegese: aree/risorse-e-conflitti/fondo-sovrano-norvegese.md
-      - Il dividendo dell'Alaska: aree/risorse-e-conflitti/dividendo-alaska.md
-      - I diamanti del Botswana: aree/risorse-e-conflitti/diamanti-botswana.md
-      - La trasparenza estrattiva (EITI): aree/risorse-e-conflitti/trasparenza-eiti.md
-      - Il trattato delle acque dell'Indo: aree/risorse-e-conflitti/trattato-acque-indo.md
-      - Le opere comuni del fiume Senegal: aree/risorse-e-conflitti/fiume-senegal-omvs.md
-      - La terra a chi la lavora: aree/risorse-e-conflitti/riforma-agraria-asia.md
-      - Le quote di pesca: aree/risorse-e-conflitti/quote-pesca.md
-  - "Area: Decisione politica":
-      - Sintesi e principi: aree/decisione-politica/index.md
-      - L'assemblea dei cittadini (Irlanda): aree/decisione-politica/assemblea-cittadini-irlanda.md
-      - Il consiglio permanente (Ostbelgien): aree/decisione-politica/consiglio-cittadini-ostbelgien.md
-      - La democrazia diretta (Svizzera): aree/decisione-politica/democrazia-diretta-svizzera.md
-      - La deliberazione digitale (Taiwan): aree/decisione-politica/deliberazione-digitale-taiwan.md
-      - Il bilancio partecipativo (Porto Alegre): aree/decisione-politica/bilancio-partecipativo-porto-alegre.md
-      - Il decentramento (Kerala): aree/decisione-politica/pianificazione-popolare-kerala.md
-      - Il proporzionale misto (Nuova Zelanda): aree/decisione-politica/proporzionale-misto-nuova-zelanda.md
-      - Arbitri indipendenti (Australia): aree/decisione-politica/commissione-elettorale-australia.md
-      - I buoni per la democrazia (Seattle): aree/decisione-politica/buoni-democrazia-seattle.md
-      - La costituzione dei cittadini (Islanda): aree/decisione-politica/costituzione-partecipata-islanda.md
-  - "Area: Economia e lavoro":
-      - Sintesi e principi: aree/economia-e-lavoro/index.md
-      - Flessibilità con sicurezza (Danimarca): aree/economia-e-lavoro/flexicurity-danimarca.md
-      - La cogestione (Germania): aree/economia-e-lavoro/cogestione-germania.md
-      - Le cooperative in rete (Mondragón): aree/economia-e-lavoro/cooperative-mondragon.md
-      - La formazione duale: aree/economia-e-lavoro/formazione-duale.md
-      - Ridurre l'orario invece di licenziare: aree/economia-e-lavoro/kurzarbeit.md
-      - Il salario minimo (Regno Unito): aree/economia-e-lavoro/salario-minimo-commissione.md
-      - Uscire dalla povertà estrema (BRAC): aree/economia-e-lavoro/programma-graduazione-brac.md
-      - La politica industriale (Corea del Sud): aree/economia-e-lavoro/politica-industriale-corea.md
-      - Uscire dal sommerso (Brasile): aree/economia-e-lavoro/semplificazione-fiscale-brasile.md
-      - I lavoratori proprietari: aree/economia-e-lavoro/azionariato-dipendenti.md
+  - Il progetto:
+      - index.md
+      - Il metodo: metodo.md
+      - La mappa del documento: indice.md
+  - La biblioteca:
+      - aree/index.md
+      - Risorse e conflitti:
+          - aree/risorse-e-conflitti/index.md
+          - Beni comuni autogestiti (Ostrom): aree/risorse-e-conflitti/beni-comuni-ostrom.md
+          - Carbone e acciaio in comune (CECA): aree/risorse-e-conflitti/comunita-carbone-acciaio.md
+          - Il fondo sovrano (Norvegia): aree/risorse-e-conflitti/fondo-sovrano-norvegese.md
+          - Il dividendo delle risorse (Alaska): aree/risorse-e-conflitti/dividendo-alaska.md
+          - Lo Stato socio delle miniere (Botswana): aree/risorse-e-conflitti/diamanti-botswana.md
+          - La trasparenza estrattiva (EITI): aree/risorse-e-conflitti/trasparenza-eiti.md
+          - Dividere l'acqua (Indo): aree/risorse-e-conflitti/trattato-acque-indo.md
+          - Le opere comuni (fiume Senegal): aree/risorse-e-conflitti/fiume-senegal-omvs.md
+          - La terra a chi la lavora (Asia orientale): aree/risorse-e-conflitti/riforma-agraria-asia.md
+          - Le quote di pesca (Islanda, N. Zelanda): aree/risorse-e-conflitti/quote-pesca.md
+      - Decisione politica:
+          - aree/decisione-politica/index.md
+          - Assemblea dei cittadini (Irlanda): aree/decisione-politica/assemblea-cittadini-irlanda.md
+          - Consiglio permanente (Ostbelgien): aree/decisione-politica/consiglio-cittadini-ostbelgien.md
+          - Democrazia diretta (Svizzera): aree/decisione-politica/democrazia-diretta-svizzera.md
+          - Deliberazione digitale (Taiwan): aree/decisione-politica/deliberazione-digitale-taiwan.md
+          - Bilancio partecipativo (Porto Alegre): aree/decisione-politica/bilancio-partecipativo-porto-alegre.md
+          - Decentramento (Kerala): aree/decisione-politica/pianificazione-popolare-kerala.md
+          - Proporzionale misto (Nuova Zelanda): aree/decisione-politica/proporzionale-misto-nuova-zelanda.md
+          - Arbitri indipendenti (Australia): aree/decisione-politica/commissione-elettorale-australia.md
+          - Buoni per la democrazia (Seattle): aree/decisione-politica/buoni-democrazia-seattle.md
+          - Costituzione dei cittadini (Islanda): aree/decisione-politica/costituzione-partecipata-islanda.md
+      - Economia e lavoro:
+          - aree/economia-e-lavoro/index.md
+          - Flessibilità con sicurezza (Danimarca): aree/economia-e-lavoro/flexicurity-danimarca.md
+          - Cogestione (Germania): aree/economia-e-lavoro/cogestione-germania.md
+          - Cooperative in rete (Mondragón): aree/economia-e-lavoro/cooperative-mondragon.md
+          - Formazione duale (Germania, Svizzera): aree/economia-e-lavoro/formazione-duale.md
+          - Ridurre l'orario (Kurzarbeit): aree/economia-e-lavoro/kurzarbeit.md
+          - Salario minimo (Regno Unito): aree/economia-e-lavoro/salario-minimo-commissione.md
+          - Uscire dalla povertà (Bangladesh): aree/economia-e-lavoro/programma-graduazione-brac.md
+          - Politica industriale (Corea del Sud): aree/economia-e-lavoro/politica-industriale-corea.md
+          - Uscire dal sommerso (Brasile): aree/economia-e-lavoro/semplificazione-fiscale-brasile.md
+          - Lavoratori proprietari (USA, Regno Unito): aree/economia-e-lavoro/azionariato-dipendenti.md
   - Partecipa:
-      - Contribuire: contribuire.md
+      - contribuire.md
       - Modello di scheda: modello-scheda.md
       - Registro delle modifiche: registro.md
 

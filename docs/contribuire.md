@@ -2,17 +2,23 @@
 
 Questo documento è aperto a chiunque voglia migliorarlo. Non serve essere esperti di politica né di tecnologia: serve una buona fonte e la voglia di discutere.
 
-## Tre modi per partecipare
+## Quattro modi per partecipare
 
-### 1. Segnalare (il più semplice)
+Per i primi tre basta un account GitHub gratuito e qualche minuto.
 
-Hai trovato un dato sbagliato, una fonte morta, un'obiezione mancante? Apri una **segnalazione** (*issue*) sulla pagina GitHub del progetto, scegliendo il modello "Segnala un errore". Bastano poche righe e, se possibile, un link.
+### 1. Correggere un errore
 
-### 2. Proporre una nuova soluzione
+Un dato sbagliato, una fonte che non dice quello che scriviamo, un link morto. [Segnala un errore](https://github.com/fablun/progetto-comune/issues/new?template=segnala-errore.md){ .md-button }
 
-Conosci un'istituzione, una politica o una pratica che ha funzionato e non è ancora nel documento? Apri una segnalazione con il modello "Proponi una soluzione". Non serve scrivere la scheda intera: basta indicare che cosa è, dove è stata applicata e una fonte sui risultati.
+### 2. Aggiungere un'obiezione
 
-### 3. Modificare il testo direttamente
+Una critica che il documento non considera, o considera in forma troppo debole, da qualsiasi tradizione politica. Le più scomode sono le più utili. [Aggiungi un'obiezione](https://github.com/fablun/progetto-comune/issues/new?template=aggiungi-obiezione.md){ .md-button }
+
+### 3. Proporre una soluzione
+
+Un'istituzione, una politica o una pratica che ha funzionato e non è ancora nel documento. Non serve scrivere la scheda intera: basta indicare che cosa è, dove è stata applicata e una fonte sui risultati. [Proponi una soluzione](https://github.com/fablun/progetto-comune/issues/new?template=proponi-soluzione.md){ .md-button }
+
+### 4. Modificare il testo direttamente
 
 Se hai dimestichezza con GitHub, puoi proporre una modifica (*pull request*). Ogni pagina del sito ha un'icona a forma di matita che apre il file da modificare direttamente nel browser.
 
